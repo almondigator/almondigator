@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey ( -_•)ᡕᠵデᡁ᠊╾━💥
+
+I am a Data Engineer interested in Graphics Programing and GameDev.
+I don't like vibecoding, I think it'll damage your brain at the long term.
+
+Some of my interests also include art and low level programing.
 
 <!--
 **almondigator/almondigator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
