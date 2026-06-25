@@ -5,7 +5,7 @@ I don't like vibecoding, I think it'll damage your brain at the long term.
 
 Some of my interests also include art and low level programing.
 
-Currently I am working on a game derived from wordle gameplay using raylib in C. Stay tuned https://almondiga.itch.io
+Currently I am working on a game derived from wordle gameplay using raylib in C. Stay tuned https://almondigator.itch.io
 
 <!--
 **almondigator/almondigator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
